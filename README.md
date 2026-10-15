@@ -53,7 +53,7 @@ Ziel: Ausruestung erfassen, Gewicht im Blick behalten, fuer jede Tour die richti
 
 ## Roadmap
 
-- [ ] **Phase 0: Fundament** Repo, README, Datenmodell
+- [x] **Phase 0: Fundament** Repo, README, Datenmodell
 - [ ] **Phase 1: Liste im Browser** HTML, CSS, JS, localStorage. Fertig wenn: eigene Ausruestung erfasst
 - [ ] **Phase 2: Touren und Packmodus** Fertig wenn: fuer eine echte Tour damit gepackt
 - [ ] **Phase 3: Backend und Datenbank** REST API plus SQLite. Fertig wenn: Frontend nur noch ueber die API arbeitet
