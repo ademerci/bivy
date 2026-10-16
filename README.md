@@ -1,4 +1,4 @@
-# Bivy (Arbeitstitel)
+# Bivy
 
 Packlisten-App fuer Backpacker, Wanderer und Wildcamper.
 Ziel: Ausruestung erfassen, Gewicht im Blick behalten, fuer jede Tour die richtige Liste packen.
